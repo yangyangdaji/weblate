@@ -361,7 +361,7 @@
     <value>Capture method</value>
   </data>
   <data name="Profile_General_Multimonitor.Title" xml:space="preserve">
-    <value>Preferred monitor(s)</value>
+    <value>Preferred monitors</value>
   </data>
   <data name="Profile_General_Multimonitor_All.Content" xml:space="preserve">
     <value>All monitors</value>
@@ -463,7 +463,7 @@
     <value>Failed to check for updates, please try again later</value>
   </data>
   <data name="About_Version_CheckingForUpdates.Text" xml:space="preserve">
-    <value>Checking for updates...</value>
+    <value>Checking for updates…</value>
   </data>
   <data name="About_Version_ReleaseNotes.Content" xml:space="preserve">
     <value>Release notes</value>
